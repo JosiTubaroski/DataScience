@@ -1,4 +1,4 @@
-# ✨ Machine Learning
+# ✨ Data Science
 
 <b>Objetivo:</b> Apresentar projetos e conteudos sobre machine learning.
 
