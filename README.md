@@ -1,5 +1,12 @@
 # ✨ Inteligencia Artificial
 
+<h3 align="left">O que separa Automações de Inteligencia Artificial</h3>
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Chatbox">
+ AutomaçãoXInteligenciaEmocional</a></p>
+</div> 
+
 <h3 align="left">Chatbots:</h3>
 
 <div> 
