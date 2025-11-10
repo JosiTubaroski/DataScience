@@ -4,11 +4,14 @@
 
 # ✨ Inteligencia Artificial
 
-<h3 align="left">O que separa Automações de Inteligencia Artificial</h3>
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Automacao_Intelig-nciaArtificial">
+ Automação X InteligenciaEmocional</a></p>
+</div> 
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Chatbox">
- Automação X InteligenciaEmocional</a></p>
+ </a></p>
 </div> 
 
 <h3 align="left">Chatbots:</h3>
