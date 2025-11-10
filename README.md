@@ -1,6 +1,11 @@
-# ✨ Data Science
+# ✨ Inteligencia Artificial
 
-<b>Objetivo:</b> Apresentar projetos e conteudos sobre machine learning.
+<h3 align="left">Chatbots:</h3>
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Chatbox">
+ Chatbots</a></p>
+</div> 
 
 <h3 align="left">Machine Learning:</h3>
 
