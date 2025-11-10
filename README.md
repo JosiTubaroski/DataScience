@@ -6,7 +6,7 @@
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Automacao_Intelig-nciaArtificial">
- Automação X InteligenciaArtificial</a></p>
+1. Automação X InteligenciaArtificial</a></p>
 </div> 
 
 <div> 
