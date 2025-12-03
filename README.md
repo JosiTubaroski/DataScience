@@ -38,4 +38,8 @@
   1 - Estatistica Basica para Machine Learning.</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/IAS_Private/blob/main/README.md">Private</a></p>
+</div> 
+
 
